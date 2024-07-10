@@ -1,0 +1,25 @@
+input:active{
+    
+}
+body{
+    font-size: 1.5rem;
+    margin: 0px;
+    background-color: yellow;
+    color: white;
+}
+section{
+    margin: 20%;
+    width: 400px;
+     justify-content: center;
+    background-color: rgb(34, 58, 58);
+}
+legend{
+    background-color: darkslategray;
+}
+div{
+    padding :1rem ;
+}
+input:checked+label{
+    text-decoration:line-through;
+    color: white;
+}
